@@ -1,8 +1,8 @@
 :root {
   --darkplus-bg: #212121;
   --darkplus-bg2: #302f2f;
-  --darkplus-sec: #86c7fc;
-  --darkplus-links: #aed4f3;
+  --darkplus-sec: #86bbfc; /*bb86fc*/
+  --darkplus-links: #aecdf3; /*cdaef3*/
   --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/468141324906921984/852117175212179466/discord-avatar-512-YV0PV.png);
   --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
